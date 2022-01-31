@@ -3,8 +3,8 @@
 
 | **Day** | **Topic** | **Link** |
 | --- | :-----: | ---- | 
-|  |  |  | 
-|  |  |  | 
+| 03-11-21 | Websites to use | https://twitter.com/akebu6/status/1455786363064918020 | 
+| 13-11-21 | Variables | https://twitter.com/akebu6/status/1459536613369860105 | 
 | 14-11-21 | Looping Expressions | https://twitter.com/akebu6/status/1459963692771069957 | 
 | 15-11-21 | Tip | https://twitter.com/akebu6/status/1460253044533346307 | 
 | 19-11-21 | Blog | https://akebu6.hashnode.dev/kotlinjs | 

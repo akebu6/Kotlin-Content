@@ -3,6 +3,12 @@
 
 | **Day** | **Topic** | **Link** |
 | --- | :-----: | ---- | 
+|  |  |  | 
+| 17-10-21 | REPL | https://twitter.com/akebu6/status/1449681366925332484 | 
+| 20-10-21 | Data Types | https://twitter.com/akebu6/status/1450835051604844545 | 
+| 25-10-21 | String Template Tip | https://twitter.com/akebu6/status/1452641275052797952 | 
+| 27-10-21 | Tip | https://twitter.com/akebu6/status/1453383336555122691 | 
+| 31-10-21 | Tip | https://twitter.com/akebu6/status/1454795771908403202 | 
 | 03-11-21 | Websites to use | https://twitter.com/akebu6/status/1455786363064918020 | 
 | 13-11-21 | Variables | https://twitter.com/akebu6/status/1459536613369860105 | 
 | 14-11-21 | Looping Expressions | https://twitter.com/akebu6/status/1459963692771069957 | 

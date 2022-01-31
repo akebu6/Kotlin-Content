@@ -9,8 +9,8 @@
 |  |  |  | 
 |  |  |  | 
 |  |  |  | 
-|  |  |  | 
-|  |  |  | 
+| 20-11-21 | Classes | https://twitter.com/akebu6/status/1462095648770215941 | 
+| 30-11-21 | Android Beginner Projects | https://twitter.com/akebu6/status/1465684173214167046 | 
 | 22-12-21 | Numeric Type Conversion | https://twitter.com/akebu6/status/1473566001212047361 | 
 | 02-01-22 | String Template | https://twitter.com/akebu6/status/1477570815042412544 | 
 | 07-01-22 | Null Safety | https://twitter.com/akebu6/status/1479392406474661889 | 

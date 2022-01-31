@@ -5,8 +5,8 @@
 | --- | :-----: | ---- | 
 |  |  |  | 
 |  |  |  | 
-|  |  |  | 
-|  |  |  | 
+| 14-11-21 | Looping Expressions | https://twitter.com/akebu6/status/1459963692771069957 | 
+| 15-11-21 | Tip | https://twitter.com/akebu6/status/1460253044533346307 | 
 | 19-11-21 | Blog | https://akebu6.hashnode.dev/kotlinjs | 
 | 20-11-21 | Nullable Type | https://twitter.com/akebu6/status/1461963580908187649 | 
 | 20-11-21 | Classes | https://twitter.com/akebu6/status/1462095648770215941 | 

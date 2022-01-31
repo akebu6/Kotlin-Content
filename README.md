@@ -2,8 +2,10 @@
 > a place to store all content relating to kotlin
 
 | **Day** | **Topic** | **Link** |
-| --- | :-----: | ---- | 
-|  |  |  | 
+| --- | :-----: | ---- |  
+| 10-10-21 | Hello World | https://twitter.com/akebu6/status/1447224940105814024 | 
+| 11-10-21 | Tip | https://twitter.com/akebu6/status/1447521094206951425 | 
+| 16-10-21 | Trick | https://twitter.com/akebu6/status/1449289724309422081 | 
 | 17-10-21 | REPL | https://twitter.com/akebu6/status/1449681366925332484 | 
 | 20-10-21 | Data Types | https://twitter.com/akebu6/status/1450835051604844545 | 
 | 25-10-21 | String Template Tip | https://twitter.com/akebu6/status/1452641275052797952 | 
@@ -27,3 +29,12 @@
 | 26-01-22 | Number Assignment | https://twitter.com/akebu6/status/1486251113821188101  | 
 |  |  |  | 
 |  |  |  | 
+|  |  |  | 
+|  |  |  | 
+|  |  |  | 
+|  |  |  | 
+|  |  |  | 
+|  |  |  |
+
+
+for more such content, follow me on [twitter](https://twitter.com/akebu6)

@@ -29,7 +29,7 @@
 | 26-01-22 | Number Assignment | https://twitter.com/akebu6/status/1486251113821188101  | 
 | 01-02-22 | Projects | https://twitter.com/akebu6/status/1488512423464157185 | 
 | 03-02-22 | Functions | https://twitter.com/akebu6/status/1489142669569892353 | 
-|  |  |  | 
+| 08-02-22 | Standard Input | https://twitter.com/akebu6/status/1490955698041389067 | 
 |  |  |  | 
 |  |  |  | 
 |  |  |  | 

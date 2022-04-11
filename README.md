@@ -33,8 +33,8 @@
 | 10-02-22 | Tip | https://twitter.com/akebu6/status/1491653161962164228 | 
 | 09-03-22 | Split() Function | https://twitter.com/akebu6/status/1501470148313731074 | 
 |  |  |  | 
-|  |  |  | 
-|  |  |  |
+| 11-04-22 | Regex Tip | https://twitter.com/akebu6/status/1513396430794280960 | 
+| 11-04-22 | Differences between val & const | https://twitter.com/akebu6/status/1513521728571518976 |
 
 
 for more such content, follow me on [twitter](https://twitter.com/akebu6)

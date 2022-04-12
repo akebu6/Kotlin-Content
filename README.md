@@ -35,6 +35,13 @@
 |  |  |  | 
 | 11-04-22 | Regex Tip | https://twitter.com/akebu6/status/1513396430794280960 | 
 | 11-04-22 | Differences between val & const | https://twitter.com/akebu6/status/1513521728571518976 |
+| 12-04-22 | Arrays Thread | https://twitter.com/akebu6/status/1513877394289008656 | 
+|  |  |  | 
+|  |  |  | 
+|  |  |  | 
+|  |  |  | 
+|  |  |  | 
+|  |  |  | 
 
 
 for more such content, follow me on [twitter](https://twitter.com/akebu6)

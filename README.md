@@ -1,6 +1,12 @@
 # Kotlin-Content
 > a place to store all content relating to kotlin
 
+## How to Contribute
+If you would love to contribute your Kotlin content to this repo, kindly follow our contribution guidelines [here]()
+
+
+
+# Table of Contents
 | **Day** | **Topic** | **Link** |
 | --- | :-----: | ---- |  
 | 10-10-21 | Hello World | https://twitter.com/akebu6/status/1447224940105814024 | 

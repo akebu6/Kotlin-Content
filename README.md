@@ -2,7 +2,7 @@
 > a place to store all content relating to kotlin
 
 ## How to Contribute
-If you would love to contribute your Kotlin content to this repo, kindly follow our contribution guidelines [here]()
+If you would love to contribute your Kotlin content to this repo, kindly follow our contribution guidelines [here](https://github.com/akebu6/Kotlin-Content/blob/main/CONTRIBUTING.md)
 
 
 
